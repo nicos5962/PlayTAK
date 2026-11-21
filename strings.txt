@@ -1,0 +1,10 @@
+# String file for PlayTAK plugin
+
+PLUGIN_PLAYTAK
+	EN	Play TAK
+
+PLUGIN_PLAYTAK_DESC
+	EN	Play Tom's lossless Audio Kompressor (TAK) files, with the Discogs release id as album id and scanner-safe registration
+
+TAK
+	EN	TAK
